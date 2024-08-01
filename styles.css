@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.col-md-7 {
+    margin-top: 150px !important;
+    background-color: white;
+    padding: 20px;
+}
+
+h1 {
+    background-color: blue;
+    color: white;
+}
+
+input,
+label {
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
